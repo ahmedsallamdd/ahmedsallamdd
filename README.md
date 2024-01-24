@@ -6,4 +6,4 @@ I'm Ahmed Sallam from Egypt. I like working on mobile apps specially iOS. My exp
 
 ### How to reach me:
 - Email: ahmedsallamdd@gmail.com
-- LinkedIn: linkedin.com/in/ahmed-sallam20
+- LinkedIn: [linkedin.com/in/ahmed-sallam20](url)
